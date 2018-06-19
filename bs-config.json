@@ -1,0 +1,6 @@
+{
+    "server": {
+        "baseDir": "wwwroot",
+        "index": "wwwroot/index.htm"
+    }
+}
